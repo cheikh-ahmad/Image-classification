@@ -1,0 +1,10 @@
+**Instructions:**
+
+- Je vous conseille de réaliser ce devoir avec `jupyter lab` et non pas `jupyter notebook`. La raison est que `jupyter notebook` a parfois du mal à afficher des images. Si vous ne voyez pas d'image de chat en Section **I.0**, c'est qu'il y a un problème.
+- Le devoir vous a été distribué sous la forme d'un dossier contenant un notebook et d'autres fichiers. Vous pouvez déplacer le dossier où vous voulez dans votre ordinateur, mais ne changez pas la structure de ce dossier : le notebook a besoin de ces fichiers auxiliaires pour fonctionner!
+- Lorsque vous rendrez votre devoir il suffira de remettre votre notebook (fichier `.ipynb`), et pas tout le dossier. Vous remettrez également un pdf contenant vos notes manuscrites, cf. plus bas.
+- Lorsque vous avez terminé votre devoir, vous devrez exécuter la commande `restart the kernel and run all cells`. Ceci vous permettra de vérifier que vous n'avez pas laissé des erreurs. C'est aussi de cette manière que j'évaluerai votre devoir, donc autant vous assurer vous-même qu'il n'y aura pas de mauvaises surprises!
+- Certaines questions nécessitent de faire tourner un algorithme. Je vous demande de ne pas faire tourner vos algorithmes plus qu'une trentaine de secondes. Si vous laissez des paramètres tels que l'appel à une fonction prenne plus d'une minute, je considèrerai le résultat comme faux.
+- Certaines questions de la partie **II.B** demandent que vous fassiez des calculs. Ces questions sont signalées par l'émoji: 📝. Vous ferez ces calculs sur papier, que vous prendrez en photo/scannerez et transmettrez (sous forme de **pdf unique**) en même temps que votre notebook.
+- D'autres questions vous demandent de donner votre opinion sur un résultat ("qu'en pensez-vous"). Vous pourrez répondre directement en Markdown dans le notebook. Ne négligez pas ces questions, elles ont toute leur importance dans l'évaluation.
+- Le devoir est à rendre au plus tard le Lundi 29 Mai 2023, à **midi**, sur Moodle. Tout retard sera sanctionné par une perte de points.
